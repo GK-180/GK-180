@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @GK
+- 👋 Hi, I’m 🇬🇰
 - 👀 I’m interested in Linux and all things FOSS
 - 🧙‍♂️ Currently ricing out my Arch and openSUSE setups
 <!---
