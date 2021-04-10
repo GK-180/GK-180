@@ -1,4 +1,4 @@
-- 👋 Hi, I’m 🇬🇰
+- 👋 Hi, I’m 🇬​​​​​🇰​​​​​
 - 👀 I’m interested in Linux and all things FOSS
 - 🧙‍♂️ Btw I use EndeavourOS
 <!---
